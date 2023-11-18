@@ -197,7 +197,7 @@ footer .nav-link {
     margin: 24px 0;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 1000px) {
 
     main {
         display: flex;
